@@ -33,6 +33,6 @@ Color spirits (the *HueMates*) wander around the player in mixed reality. Using 
 
 ## Team
 
-Fu Hsiang Chang · **Wei Ting Huang** · Yi Jen Suen · Ting Wu Chang · Ying Hsuan Lee
+Fu Hsiang Chang · Wei Ting Huang · Yi Jen Suen · Ting Wu Chang · Ying Hsuan Lee
 
-My main contributions: spirit/fairy behaviour and movement systems, spirit prefab tuning, ring mechanics co-development, and scene integration.
+My part (Wei Ting Huang): spirit/fairy behaviour and movement systems, spirit prefab tuning, ring mechanics co-development, and scene integration.
